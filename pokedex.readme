@@ -1,0 +1,12 @@
+Hello! 
+Steps to make this cool project be executed:
+
+BACKEND:
+1. In the root folder, run "pip install -r requirements.txt"
+2. Run "flask run"
+3. The backend should listen to port 5000
+
+FRONTEND:
+1. Enter to pokedex folder and run "npm install" command
+2. Run "npm start"
+3. Navigate to localhost:3000 
